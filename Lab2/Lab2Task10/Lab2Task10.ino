@@ -9,10 +9,10 @@ short sampleBuffer[256];
 volatile int samplesRead = 0;
 
 //Measurements
-static int level;
-static float x, y, z;
-static int r, g, b, c;
-static int proximity = -1;  //Initialize to invalid value
+int level;
+float x, y, z;
+int r, g, b, c;
+int proximity = -1;  //Initialize to invalid value
 
 int sound, dark, moving, near = 0;  //flags
 String final_label = "";
