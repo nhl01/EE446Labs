@@ -135,6 +135,6 @@ void setFinalLabel() {
   } else if (sound && !dark && moving && near) {  //Flags should be 1011
     final_label = "NOISY_BRIGHT_MOVING_NEAR";
   } else {
-    final_label = "";  //Leave final label blank
+    final_label = "";  //Leave final label blank if invalid label
   }
 }
