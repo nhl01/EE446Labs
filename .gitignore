@@ -1,3 +1,7 @@
 .DS_Store
 __MACOSX/
 examples/
+# Lab3
+Lab3/UCI HAR Dataset/
+Lab3/uci_har_dataset.zip
+Lab3/.ipynb_checkpoints
