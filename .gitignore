@@ -5,3 +5,15 @@ examples/
 Lab3/UCI HAR Dataset/
 Lab3/uci_har_dataset.zip
 Lab3/.ipynb_checkpoints
+# Lab5
+Lab5/audio_files.pkl
+Lab5/dataset
+Lab5/logs
+Lab5/models
+Lab5/speech_micro_train_2020_05_10.tgz
+Lab5/tensorflow
+Lab5/tensorflow-v2.14.1.zip
+Lab5/train
+Lab5/trimmed
+Lab5/yes_no.pkl
+Lab5/.ipynb_checkpoints
