@@ -17,3 +17,10 @@ Lab5/train
 Lab5/trimmed
 Lab5/yes_no.pkl
 Lab5/.ipynb_checkpoints
+
+# Lab6
+Lab6_TinyML_Anomaly_Detection/.ipynb_checkpoints
+Lab6_TinyML_Anomaly_Detection/autoencoder_fp32.tflite
+Lab6_TinyML_Anomaly_Detection/autoencoder_int8.tflite
+Lab6_TinyML_Anomaly_Detection/mHealth_subject6.log
+
