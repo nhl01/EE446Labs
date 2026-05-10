@@ -24,3 +24,4 @@ Lab6_TinyML_Anomaly_Detection/autoencoder_int8.tflite
 Lab6_TinyML_Anomaly_Detection/mHealth_subject6.log
 # Assignment 1
 Assignment1/.ipynb_checkpoints
+Assignment1/quantization_outputs
