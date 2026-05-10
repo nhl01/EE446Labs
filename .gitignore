@@ -25,3 +25,8 @@ Lab6_TinyML_Anomaly_Detection/mHealth_subject6.log
 # Assignment 1
 Assignment1/.ipynb_checkpoints
 Assignment1/quantization_outputs
+# Assignment 2
+Assignment2/__pycache__
+Assignment2/.ipynb_checkpoints
+Assignment2/c_writer.py
+Assignment2/Network_anomaly_data.txt
