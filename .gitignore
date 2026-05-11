@@ -30,3 +30,8 @@ Assignment2/__pycache__
 Assignment2/.ipynb_checkpoints
 Assignment2/c_writer.py
 Assignment2/Network_anomaly_data.txt
+Assignment2/network_model.h
+Assignment2/original_model.h5
+Assignment2/quantized_model.tflite
+Assignment2/network_model_int8.h
+Assignment2/int8_model.tflite
