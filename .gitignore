@@ -35,3 +35,13 @@ Assignment2/original_model.h5
 Assignment2/quantized_model.tflite
 Assignment2/network_model_int8.h
 Assignment2/int8_model.tflite
+# Lab7
+Lab7/__MACOSX
+Lab7/checkpoints
+Lab7/finetune
+Lab7/magic_wand_digit_data
+Lab7/model.png
+Lab7/test
+Lab7/train
+Lab7/validation
+Lab7/.ipynb_checkpoints
